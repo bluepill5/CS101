@@ -4,6 +4,7 @@ def biggest(num1, num2, num3):
 	return num1 if num1 >=num2 and num1 >=num3 else biggest(num2, num3, num1)
 
 # This was modified: 23-08-2013
+# by bluepill5
 
 
 
